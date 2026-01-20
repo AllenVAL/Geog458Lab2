@@ -1,5 +1,6 @@
 # Geog458Lab2
 Author: Jiacheng Yuan
+
 In this lab, I researched three different terms: food desert, fast food and diabetes. The share the same topic: Food accessibility and people's health. when search the three different terms, I inputed mutilple parameters to make sure the search result is optimizes. For the food desert, I used parameters "food desert" "desert of food". For the fast food, I used parameters "fast food" "fast-food". For the diabetes, I used "diabetes" "Diabetic ketoacidosis". I used these three different terms to generate three different cloud 
 
 I want to make this comparison because I want to see how the people are talking about these three terms and how their wordcloud are similar to each other. If there are obvious overlap between these 3 wordclouds, that means food desert and fast food can have a corelation with diabetes. Thats what i want to argue: the government should working on programs that eliminate food desert to improve the overall health of people in the U.S. From the word clouds, the words that related to the keywords can be used and analysed to find solutions to these problems. 
